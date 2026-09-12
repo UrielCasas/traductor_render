@@ -1,7 +1,7 @@
 # **Traductor - Large Language Model**
-Un modelo de lenguaje a gran escala con una interfaz para poder interactuar con la misma, y realizada para presentar como trabajo final en la materia _Técnicas de Procesamiento del Habla_.
+Trabajo final para la materia Técnicas de Procesamiento del Habla: Traductor desarrollado con Python, usando _edge_tts_ y _deep_translator_.
 
-La app puede ser utilizada de manera local, y también estará desplegado en _Render_ para poder interactuar con el LLM basado en los motores de _Google Translator_ (de Google) y MyMemory (de Microsoft).
+La app puede ser utilizada de manera local usando _Flask> y también esta desplegado en _Render_ para poder interactuar con el LLM basado en los motores de _Google Translator_ (de Google) y MyMemory (de Microsoft).
 
 ## 🏗️ **Estructura del Proyecto**
 ```text
