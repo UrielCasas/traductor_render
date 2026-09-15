@@ -81,4 +81,4 @@ Ambos motores muestran alta capacidad para reconocer y construir refranes de man
 
 Aunque **Google** optó más por una reconstrucción más descriptiva, **Microsoft** se mantuvo más fiel al texto original.
 
-En conclusión, ambos motores garantizar la preservación del significado y el contexto, pero no recuperar a su totalidad la estructura original al regresar al idioma de origen.
+En conclusión, ambos motores preservan el significado y el contexto, pero no recuperan la totalidad de su estructura original al regresar al idioma de origen.
